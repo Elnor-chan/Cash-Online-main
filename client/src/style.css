@@ -1,0 +1,37 @@
+:root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  background-color: #f0f2f5;
+  /* 设置整体背景色 */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 重置 body 和 app 的尺寸，确保铺满 */
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* 防止浏览器默认滚动条，交由内部 el-main 滚动 */
+}
+
+/* 移除原来 #app 的 padding 和 max-width 限制 */
+#app {
+  text-align: left;
+  /* 恢复左对cJ */
+}
+
+/* 简单的按钮重置 */
+button {
+  cursor: pointer;
+}

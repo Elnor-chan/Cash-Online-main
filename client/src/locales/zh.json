@@ -1,0 +1,60 @@
+{
+  "common": {
+    "login": "登录",
+    "logout": "退出",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "delete": "删除",
+    "actions": "操作",
+    "search": "搜索",
+    "add": "新增",
+    "refresh": "刷新",
+    "date": "日期",
+    "currency": "币种",
+    "memo": "备注",
+    "status": "状态",
+    "total": "总计",
+    "success": "操作成功"
+  },
+  "menu": {
+    "dashboard": "仪表盘",
+    "basic": "基础设置",
+    "accounts": "会计科目",
+    "partners": "往来单位",
+    "items": "物料主数据",
+    "finance": "财务处理",
+    "voucher": "凭证录入",
+    "transactions": "凭证列表",
+    "purchase": "采购管理",
+    "po": "采购订单",
+    "inbound": "采购入库",
+    "sales": "销售管理",
+    "so": "销售订单",
+    "outbound": "销售出库",
+    "reports": "财务报表"
+  },
+  "reports": {
+    "trial_balance": "科目余额表",
+    "balance_sheet": "资产负债表",
+    "asset": "资产",
+    "liability": "负债",
+    "equity": "权益",
+    "income": "收入",
+    "expense": "支出",
+    "account": "科目",
+    "category": "类型",
+    "debit": "借方",
+    "credit": "贷方",
+    "net": "净额"
+  },
+  "purchase": {
+    "inbound": "采购入库单",
+    "ref_po": "引用采购订单",
+    "supplier": "供应商",
+    "payment_acct": "结算科目",
+    "items": "入库明细",
+    "unit_cost": "单位成本",
+    "quantity": "数量"
+  }
+}

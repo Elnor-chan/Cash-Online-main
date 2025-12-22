@@ -1,0 +1,60 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "actions": "Actions",
+    "search": "Search",
+    "add": "Add",
+    "refresh": "Refresh",
+    "date": "Date",
+    "currency": "Currency",
+    "memo": "Memo",
+    "status": "Status",
+    "total": "Total",
+    "success": "Success"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "basic": "Basic Settings",
+    "accounts": "Chart of Accounts",
+    "partners": "Partners",
+    "items": "Items",
+    "finance": "Finance",
+    "voucher": "Journal Entry",
+    "transactions": "Transactions",
+    "purchase": "Purchasing",
+    "po": "Purchase Order",
+    "inbound": "Purchase Inbound",
+    "sales": "Sales",
+    "so": "Sales Order",
+    "outbound": "Sales Outbound",
+    "reports": "Financial Reports"
+  },
+  "reports": {
+    "trial_balance": "Trial Balance",
+    "balance_sheet": "Balance Sheet",
+    "asset": "Assets",
+    "liability": "Liabilities",
+    "equity": "Equity",
+    "income": "Income",
+    "expense": "Expense",
+    "account": "Account",
+    "category": "Category",
+    "debit": "Debit",
+    "credit": "Credit",
+    "net": "Net"
+  },
+  "purchase": {
+    "inbound": "Purchase Inbound",
+    "ref_po": "Ref PO",
+    "supplier": "Vendor",
+    "payment_acct": "Payment Account",
+    "items": "Line Items",
+    "unit_cost": "Unit Cost",
+    "quantity": "Quantity"
+  }
+}

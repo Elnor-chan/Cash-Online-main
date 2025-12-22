@@ -1,0 +1,12 @@
+
+sudo systemctl stop mysqld_safe
+
+sudo mysqld_safe --skip-grant-tables
+
+mysql -u root
+
+USE mysql;
+ALTER USER 'root'@'localhost' IDENTIFIED BY '142857';
+FLUSH PRIVILEGES;​
+
+sudo systemctl start mysql
